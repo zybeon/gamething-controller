@@ -1,7 +1,5 @@
-# gamething-controller
-Arduino based arcade button encoder
+# PiBoy MCU controller
 
-Installation:
-- Copy "gamething" folder into your "Arduino" folder
+Connects to Rpi through SPI connection for button input, power control, and controls the power LED. 4-way directional pad + 14 buttons. Optional low battery and charging input and RGB LED for status.
 
-More info at: http://www.cuddleburrito.com/blog/2015/3/17/arduino-arcade-joystick-controller
+Used designs: http://www.cuddleburrito.com/blog/2015/3/17/arduino-arcade-joystick-controller
