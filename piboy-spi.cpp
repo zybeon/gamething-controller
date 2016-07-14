@@ -8,6 +8,16 @@
 
 Compile String:
 g++ -o SPI_Raspi_Arduino SPI_Raspi_Arduino.cpp
+
+
+References: http://robotics.hobbizine.com/raspiduino.html
+https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md
+http://raspberrypi-aa.github.io/session3/spi.html
+https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial
+https://projects.drogon.net/understanding-spi-on-the-raspberry-pi/
+http://www.raspberry-projects.com/pi/programming-in-c/spi/using-the-spi-interface
+http://elinux.org/RPi_SPI
+
 ***********************************************************/
 
 #include <sys/ioctl.h>
